@@ -1,1 +1,0 @@
-import{bO as s,cH as o,cI as a,cJ as e,cK as P}from"./index-DLjMb9ov.js";const t=s(()=>{console.log("[Stripe] ambiente:",o,"| chave:",`${a.slice(0,7)}...`,"| Pro:",e,"| Plus:",P)});export{t as default};
