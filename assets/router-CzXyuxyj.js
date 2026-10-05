@@ -1,0 +1,1 @@
+import{bO as t}from"./index-C8NM4_uT.js";const a=t(({app:r,router:o})=>{r.config.globalProperties.$router=o,globalThis.$router=o});export{a as default};
