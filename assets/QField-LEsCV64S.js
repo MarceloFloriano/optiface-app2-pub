@@ -1,1 +1,0 @@
-import{cd as e,cF as t,cH as s,cO as a,cJ as r}from"./index-DCTu08qR.js";const l=e({name:"QField",inheritAttrs:!1,props:{...s,tag:{type:String,default:"label"}},emits:t,setup(){return a(r({tagProp:!0}))}});export{l as Q};
