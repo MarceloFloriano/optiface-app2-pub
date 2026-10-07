@@ -1,0 +1,1 @@
+import{bQ as o}from"./index-CODdzDew.js";import{A as s,S as a,P,a as e}from"./stripe-Cc9A53s-.js";const i=o(()=>{console.log("[Stripe] ambiente:",s,"| chave:",`${a.slice(0,7)}...`,"| Pro:",P,"| Plus:",e)});export{i as default};
