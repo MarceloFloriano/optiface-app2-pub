@@ -1,1 +1,0 @@
-import{bQ as a}from"./index-hjeW16xG.js";import{A as o,S as r,P as s,a as e}from"./stripe-Cc9A53s-.js";const i=a(()=>{new URLSearchParams(window.location.search).has("captura")||console.log("[Stripe] ambiente:",o,"| chave:",`${r.slice(0,7)}...`,"| Pro:",s,"| Plus:",e)});export{i as default};
