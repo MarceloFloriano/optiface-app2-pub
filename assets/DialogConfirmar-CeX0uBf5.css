@@ -1,0 +1,1 @@
+.dialog-confirmar{width:min(calc(100vw - 48px),420px);height:min(260px,calc(100vh - 48px))}.dialog-confirmar__rodape{gap:12px}.dialog-confirmar__conteudo{display:flex;flex-direction:column;justify-content:center}.dialog-confirmar__mensagem{margin:0;text-align:center;font-size:17px;line-height:1.5}
