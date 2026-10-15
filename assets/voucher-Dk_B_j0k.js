@@ -1,0 +1,1 @@
+function a(t,e){const o=Number(t)||0,r=Math.min(Math.max(Number(e)||0,0),100);return Math.round(o*(100-r))/100}function n(t,e){return(e?.[t?.duracao]??"").replace("{meses}",t?.meses??"")}export{n as t,a as v};

@@ -1,1 +1,0 @@
-import{cd as e,cI as t,cK as s,cR as a,cM as r}from"./index-3B2-0S8H.js";const l=e({name:"QField",inheritAttrs:!1,props:{...s,tag:{type:String,default:"label"}},emits:t,setup(){return a(r({tagProp:!0}))}});export{l as Q};
